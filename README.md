@@ -9,7 +9,6 @@
 - 🌱 I’m currently learning Dart, Next.js
 - 👀 I’m looking to collaborate on Open Source Projects
 - 🌟 Campus ambassador at Techfest IIT Bombay
-- 👀 I’m looking for help with Research Papers
 - 💬 Ask me any tech related stuff.
 - ⚡ Fun fact: I mostly listen to ncs.
 
