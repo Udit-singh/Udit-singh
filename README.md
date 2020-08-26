@@ -6,9 +6,10 @@
 </a>
 
 - [] I'm a Computer Science student.
-- 🌱 I’m currently learning Dart, Next.js
-- 👀 I’m looking to collaborate on Open Source Projects
-- 🌟 Campus ambassador at Techfest IIT Bombay
+- 🌱 I’m currently learning Dart, GraphQL.
+- 👀 I’m looking to collaborate on Open Source Projects.
+- 🌟 Campus ambassador at Techfest IIT Bombay.
+- 🌟 Flutter Developer at ACM ciet.
 - 💬 Ask me any tech related stuff.
 - ⚡ Fun fact: I mostly listen to ncs.
 
