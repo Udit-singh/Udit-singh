@@ -9,7 +9,7 @@
 - 🌱 I’m currently learning Dart, GraphQL.
 - 👀 I’m looking to collaborate on Open Source Projects.
 - 🌟 Campus ambassador at Techfest IIT Bombay.
-- 🌟 Flutter Developer at ACM ciet.
+- 🌟 Flutter Developer at ACM Ciet.
 - 💬 Ask me any tech related stuff.
 - ⚡ Fun fact: I mostly listen to ncs.
 
@@ -30,7 +30,8 @@
   <a href="https://www.linkedin.com/in/udit-singh-081008128/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="uditsingh" height="40" width="40" /></a> &nbsp;&nbsp;
   <a href="https://www.instagram.com/udit_singh146" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="udit_singh146" height="40" width="40" /></a> &nbsp;&nbsp;
 <a href="https://twitter.com/Udit_singh146" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Udit_singh146" height="40" width="40" /></a> &nbsp;&nbsp;
-<a href="https://www.facebook.com/udit.singh.7528" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="udit.singh.7528" height="40" width="40" /></a>
+<a href="https://www.facebook.com/udit.singh.7528" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="udit.singh.7528" height="40" width="40" /></a> &nbsp;&nbsp;
+  <a href="https://singhudit245.medium.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="ishandeveloper" height="40" width="40" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 <a href="https://github.com/Udit-singh">
