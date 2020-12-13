@@ -36,7 +36,4 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Udit-singh" alt="Udit-singh" /></p>
 <a href="https://github.com/Udit-singh">
  <img align="left" src="https://github-readme-stats.vercel.app/api?username=Udit-singh&show_icons=true&theme=dark&line_height=27" alt="Udit's github stats"/>
-</a>
-<a href="https://github.com/Udit-singh">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Udit-singh&theme=dark&hide_langs_below=1&langs_count=8&layout=compact" />
-</a>
+</a> 
