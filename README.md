@@ -22,14 +22,15 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
  -->
 
-**Connect with me :**
+***Connect with me :***
 <p align="left">
-  <a href="https://www.linkedin.com/in/udit-singh-081008128/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="uditsingh" height="40" width="40" /></a> &nbsp;&nbsp;
-  <a href="https://www.instagram.com/udit_singh146" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="udit_singh146" height="40" width="40" /></a> &nbsp;&nbsp;
-<a href="https://twitter.com/Udit_singh146" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Udit_singh146" height="40" width="40" /></a> &nbsp;&nbsp;
-<a href="https://www.facebook.com/udit.singh.7528" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="udit.singh.7528" height="40" width="40" /></a> &nbsp;&nbsp;
-  <a href="https://singhudit245.medium.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="Udit_singh146" height="40" width="40" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/udit-singh-081008128/" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="uditsingh" height="25" width="25" /></a> &nbsp;&nbsp;
+  <a href="https://www.instagram.com/udit_singh146" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="udit_singh146" height="25" width="25" /></a> &nbsp;&nbsp;
+<a href="https://twitter.com/Udit_singh146" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" alt="Udit_singh146" height="25" width="30" /></a> &nbsp;&nbsp;
+<!-- <a href="https://www.facebook.com/udit.singh.7528" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="udit.singh.7528" height="40" width="40" /></a> &nbsp;&nbsp; -->
+  <a href="https://singhudit245.medium.com" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/medium/medium-tile.svg" alt="Udit_singh146" height="25" width="25" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
+
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=Udit-singh" alt="Udit-singh" /></p> -->
 <!-- <a href="https://github.com/Udit-singh">
  <img align="left" src="https://github-readme-stats.vercel.app/api?username=Udit-singh&show_icons=true&theme=dark&line_height=27" alt="Udit's github stats"/>
