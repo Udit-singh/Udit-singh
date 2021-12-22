@@ -29,7 +29,7 @@
 <a href="https://twitter.com/Udit_singh146" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" alt="Udit_singh146" height="25" width="30" /></a> &nbsp;&nbsp;
 <!-- <a href="https://www.facebook.com/udit.singh.7528" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="udit.singh.7528" height="40" width="40" /></a> &nbsp;&nbsp; -->
   <a href="https://singhudit245.medium.com" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/medium/medium-tile.svg" alt="Udit_singh146" height="25" width="25" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://g.dev/Udit-singh" target="blank"><img align="center" src="https://www.gstatic.com/devrel-devsite/prod/v7824338a80ec44166704fb131e1860a66ed443b0ce02adfe8171907535d63bde/developers/images/lockup.svg" alt="Udit-singh" height="135" width="135" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://g.dev/Udit-singh" target="blank"><img align="center" src ="https://raw.githubusercontent.com/Udit-singh/Udit-singh/master/icon.png" alt="Udit-singh" width="125"" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=Udit-singh" alt="Udit-singh" /></p> -->
