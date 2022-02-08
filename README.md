@@ -6,8 +6,9 @@
 </a>
 
 - 💻 I'm a Computer science student.
-- 📖 Working on some projects
-- 🤝 Open to Internships
+- 📖 Working on Full stack developmet projects.
+- 💼 Do read my resume here: [Resume](https://drive.google.com/file/d/1OuiMwMCbGfcEB0yhOHr1edAJni3Njotv/view?usp=sharing)
+- 🤝 Open to Internships.
 - ⚡ Fun fact: I mostly listen to ncs.
 
 <!-- **Languages and Tools:**  
