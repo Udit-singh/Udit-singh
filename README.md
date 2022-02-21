@@ -7,7 +7,7 @@
 
 - 💻 I'm a Computer science student.
 - 📖 Working on Full stack developmet projects.
-- 💼 Do read my resume here: [Resume](https://drive.google.com/file/d/1OuiMwMCbGfcEB0yhOHr1edAJni3Njotv/view?usp=sharing)
+- 💼 Do read my resume here: [Resume](404)
 - 🤝 Open to Internships.
 - ⚡ Fun fact: I mostly listen to ncs.
 
