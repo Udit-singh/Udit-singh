@@ -6,6 +6,7 @@
 </a>
 
 - 💻 I'm a Computer science student.
+- 💼 Currently working as Software Engineering Intern
 - 📖 Working on Full stack developmet projects.
 - 💼 Do read my resume here: [Resume](404)
 - 🤝 Open to Internships.
