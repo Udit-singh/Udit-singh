@@ -27,7 +27,7 @@
 ***Connect with me :***
 <p align="left">
   <a href="https://www.linkedin.com/in/udit-singh-081008128/" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="uditsingh" height="25" width="25" /></a> &nbsp;&nbsp;
-  <a href="https://www.instagram.com/udit_singh146" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="udit_singh146" height="25" width="25" /></a> &nbsp;&nbsp;
+  <a href="https://www.instagram.com/_udit_singh1" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="udit_singh146" height="25" width="25" /></a> &nbsp;&nbsp;
 <a href="https://twitter.com/Udit_singh146" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" alt="Udit_singh146" height="25" width="30" /></a> &nbsp;&nbsp;
 <!-- <a href="https://www.facebook.com/udit.singh.7528" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="udit.singh.7528" height="40" width="40" /></a> &nbsp;&nbsp; -->
   <a href="https://singhudit245.medium.com" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/medium/medium-tile.svg" alt="Udit_singh146" height="25" width="25" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
