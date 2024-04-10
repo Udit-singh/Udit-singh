@@ -6,10 +6,10 @@
 </a>
 
 - 💻 I'm a Computer science student.
-- 💼 Currently working as Software Engineering Intern
+- 💼 Currently working as Software Engineer
 - 📖 Working on Full stack developmet projects.
 - 💼 Do read my resume here: [Resume](404)
-- 🤝 Open to Internships.
+- 🤝 Open to new challenges.
 - ⚡ Fun fact: I mostly listen to ncs.
 
 <!-- **Languages and Tools:**  
