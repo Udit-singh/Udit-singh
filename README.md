@@ -1,40 +1,55 @@
-### Hi there 👋
-## I'm Udit Singh,
+# Hi there 👋  
+## I'm Udit Singh
 
-<a href="https://www.linkedin.com/in/udit-singh-081008128/">
-  <img src="https://img.shields.io/badge/Linkedin-Udit%20Singh-blue?style=for-the-badge&logo=linkedin">
+<a href="https://www.linkedin.com/in/udit-singh1/">
+  <img src="https://img.shields.io/badge/LinkedIn-Udit%20Singh-blue?style=for-the-badge&logo=linkedin" />
+</a>
+<a href="https://github.com/Udit-singh">
+  <img src="https://img.shields.io/badge/GitHub-Udit--singh-181717?style=for-the-badge&logo=github" />
+</a>
+<a href="https://leetcode.com/singhudit245/">
+  <img src="https://img.shields.io/badge/LeetCode-Udit%20Singh-FFA116?style=for-the-badge&logo=leetcode" />
 </a>
 
-- 💻 I'm a Computer science student.
-- 💼 Currently working as Software Engineer
-- 📖 Working on Full stack developmet projects.
-- 💼 Do read my resume here: [Resume](404)
-- 🤝 Open to new challenges.
-- ⚡ Fun fact: I mostly listen to ncs.
+---
 
-<!-- **Languages and Tools:**  
+### 🚀 About Me
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
- -->
+- 💼 **Software Engineer 1** @FICO | 3+ years of backend + frontend experience  
+- 💻 Building **scalable, high-performance** systems using Java, Spring Boot, Angular, and Microservices  
+- 🌐 Previously built credit decisioning tools for US & Asia-Pacific banks, used by financial institutions  
+- 🛠️ Contributed to open-source projects; ranked Top 10 globally in **GSSOC’21**  
+- 📚 I love breaking down complex systems, debugging with coffee + NCS, and leveling up every day  
 
-***Connect with me :***
+---
+
+### 🧰 Tech Stack
+
+**Languages**: Java, JavaScript, TypeScript, C++, SQL, Python, Kotlin  
+**Frameworks**: Spring Boot, Angular, React, Hibernate, Flutter  
+**Tools**: Kafka, Jenkins, Docker, Git, AWS, GCP, MySQL, MongoDB, Kubernetes  
+**Architecture**: Microservices, REST APIs, CI/CD, Event-driven systems  
+
+---
+
+### 🏆 Achievements
+
+- 🏅 **Extraordinary Impact Award** @ FICO – Recognized by CEO  
+- 🧠 **1000+ DSA problems** solved on LeetCode & CodeChef  
+- 🌍 **Top 10** Global Rank in GSSOC’21 – Open-source contributions  
+
+---
+
+### 📫 Let's Connect
+
 <p align="left">
-  <a href="https://www.linkedin.com/in/udit-singh-081008128/" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="uditsingh" height="25" width="25" /></a> &nbsp;&nbsp;
-  <a href="https://www.instagram.com/_udit_singh1" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="udit_singh146" height="25" width="25" /></a> &nbsp;&nbsp;
-<a href="https://twitter.com/Udit_singh146" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" alt="Udit_singh146" height="25" width="30" /></a> &nbsp;&nbsp;
-<!-- <a href="https://www.facebook.com/udit.singh.7528" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="udit.singh.7528" height="40" width="40" /></a> &nbsp;&nbsp; -->
-  <a href="https://singhudit245.medium.com" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/medium/medium-tile.svg" alt="Udit_singh146" height="25" width="25" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://g.dev/Udit-singh" target="blank"><img align="center" src ="https://raw.githubusercontent.com/Udit-singh/Udit-singh/master/icon.png" alt="Udit-singh" width="125"" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/udit-singh1" target="blank"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" height="25" /></a>&nbsp;&nbsp;
+  <a href="https://www.instagram.com/_udit_singh1" target="blank"><img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" height="25" /></a>&nbsp;&nbsp;
+  <a href="https://twitter.com/Udit_singh146" target="blank"><img src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" height="25" /></a>&nbsp;&nbsp;
+  <a href="https://singhudit245.medium.com" target="blank"><img src="https://www.vectorlogo.zone/logos/medium/medium-tile.svg" height="25" /></a>&nbsp;&nbsp;
+  <a href="https://g.dev/Udit-singh" target="blank"><img src="https://raw.githubusercontent.com/Udit-singh/Udit-singh/master/icon.png" width="110" /></a>
 </p>
 
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=Udit-singh" alt="Udit-singh" /></p> -->
-<!-- <a href="https://github.com/Udit-singh">
- <img align="left" src="https://github-readme-stats.vercel.app/api?username=Udit-singh&show_icons=true&theme=dark&line_height=27" alt="Udit's github stats"/>
-</a>  -->
+---
+
+📄 [**Resume**](https://tinyurl.com/UditS-resume) • 📧 singhudit245@gmail.com • 📱 +91-8107533816
