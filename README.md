@@ -7,9 +7,6 @@
 <a href="https://github.com/Udit-singh">
   <img src="https://img.shields.io/badge/GitHub-Udit--singh-181717?style=for-the-badge&logo=github" />
 </a>
-<a href="https://leetcode.com/singhudit245/">
-  <img src="https://img.shields.io/badge/LeetCode-Udit%20Singh-FFA116?style=for-the-badge&logo=leetcode" />
-</a>
 
 ---
 
